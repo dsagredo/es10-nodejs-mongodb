@@ -25,4 +25,4 @@ Instalación Babel-Node para usar el transpilador de babel del lado del servidor
 
 -   [mongodb] - Instalación MongoDB
 
-[mongodb]: http://angularjs.org
+[mongodb]: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/
