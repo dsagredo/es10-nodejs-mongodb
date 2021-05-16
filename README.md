@@ -1,6 +1,6 @@
-## Simple REST API con Nodejs y Mongodb
+# Simple REST API con Nodejs y Mongodb
 
-# Comandos Utilizados configuración entorno de Trabajo
+## Comandos Utilizados configuración entorno de Trabajo
 
 A continuación los comandos utilzados para la creación del proyecto
 
@@ -23,7 +23,7 @@ Instalación Babel-Node para usar el transpilador de babel del lado del servidor
 
     npm install --save-dev @babel/core @babel/node
 
-# Paquetes que deben estar preinstalados
+## Paquetes que deben estar preinstalados
 
 -   [mongodb] - Instalación MongoDB
 
